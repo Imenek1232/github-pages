@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hitbox_.aternos.me - Serwer Minecraft</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1d1d1d;
+      color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #2ecc71;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+    .content {
+      padding: 40px 20px;
+    }
+    .ip-box {
+      background-color: #333;
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+    footer {
+      background-color: #111;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎮 Hitbox_.aternos.me</h1>
+    <p>Dołącz do naszego serwera Minecraft!</p>
+  </header>
+
+  <div class="content">
+    <h2>🌍 IP Serwera</h2>
+    <div class="ip-box">Hitbox_.aternos.me</div>
+
+    <h2>🔥 O serwerze</h2>
+    <p>Tutaj dodasz opis serwera, tryby gry, zasady, link do Discorda itp.</p>
+
+    <h2>✅ Status</h2>
+    <p>Serwer: <strong>Online / Offline</strong> (Dodaj tu status jeśli chcesz)</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Hitbox_.aternos.me | Wszelkie prawa zastrzeżone</p>
+  </footer>
+</body>
+</html>
